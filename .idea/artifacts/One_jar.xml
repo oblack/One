@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="One:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/One_jar</output-path>
+    <root id="archive" name="One.jar">
+      <element id="module-output" name="One" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Print1/out/artifacts/print_jar/print.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
